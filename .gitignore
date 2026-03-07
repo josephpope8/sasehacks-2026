@@ -11,3 +11,4 @@ env/
 
 # Security
 .env
+.env.local
